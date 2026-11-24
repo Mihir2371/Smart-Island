@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capsule</string>
+    <string name="accessibility_capsule_overlay">Interactive Capsule Overlay</string>
+    <string name="notification_listener_label">Capsule Live Activities</string>
+    <string name="overlay_service_channel_name">Capsule Overlay Engine</string>
+    <string name="overlay_service_channel_desc">Keeps the floating capsule overlay active across apps</string>
+    <string name="overlay_service_notif_title">Capsule Engine Active</string>
+    <string name="overlay_service_notif_text">Tap to open Cutout &amp; Live Activity Studio</string>
+</resources>
